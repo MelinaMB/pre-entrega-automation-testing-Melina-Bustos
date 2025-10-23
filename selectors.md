@@ -13,6 +13,8 @@ cantidad de elemento del carrito | shoping_cart_badge     | .shopping_cart_badge
 boton de add to cart             | button                 | button
 boton de carrito                 | shopping_cart_link     | .shpping_cart_link
 cart item                        | cart_item              | .cart_item
+nombre del item                  | inventory_item_name    | .inventory_item_name
+precio del item                  | inventory_item_price   | .inventory_item_price
 
 
 
